@@ -6,7 +6,7 @@ body {
 }
 
 .band {
-    list-style-type:disc;
+      list-style-type:square;
     margin: 0px;
 }
 
