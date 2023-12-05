@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+body {
+    font-family: Arial, sans-serif;
+    margin-left: 400px;
+    margin-top: 50px;
+}
+
+.band {
+    list-style-type:disc;
+    margin: 0px;
+}
+
+.band li {
+    margin: 5px;
+}
+
+.con{
+    margin-left: 200px;
+    width: 500px;
+    height: 200px;
+}
